@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **industrial placement opportunities in data science**
 
-- 📫 How to reach me **abhinawap@hotmail.com**
+- 📫 How to reach me **bxp561@student.bham.ac.uk**
 
 - ⚡ Fun fact **I'm a dual degree student studying between UGM and University of Birmingham**
 
