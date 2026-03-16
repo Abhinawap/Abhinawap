@@ -102,7 +102,7 @@ Sentiment classification (positive / neutral / negative) of Indonesian Twitter d
 
 - **Working on:** Bitcoin fraud detection, extending XGBoost pipeline with Graph Neural Networks (GraphSAGE/GAT)
 - **Learning:** Cloud computing, advanced feature selection, functional programming
-- **Open to:** Industrial placement / internship opportunities in data science
+- **Open to:** Industrial placement / internship opportunities in data science / machine learning
 
 ---
 
