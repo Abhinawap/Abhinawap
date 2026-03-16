@@ -15,7 +15,7 @@
 
 ---
 
-I build end-to-end ML pipelines — from messy real-world data to reproducible, tested models. My work spans computer vision, fraud detection, and NLP, with a particular interest in making models that hold up under realistic evaluation conditions (temporal splits, class imbalance, proper validation).
+I build end-to-end ML pipelines from messy real-world data to reproducible, tested models. My work spans computer vision, fraud detection, and NLP, with a particular interest in making models that hold up under realistic evaluation conditions (temporal splits, class imbalance, proper validation).
 
 Currently seeking an **industrial placement in data science**.
 
@@ -100,7 +100,7 @@ Sentiment classification (positive / neutral / negative) of Indonesian Twitter d
 
 ## Currently
 
-- **Working on:** Bitcoin fraud detection — extending XGBoost pipeline with Graph Neural Networks (GraphSAGE/GAT)
+- **Working on:** Bitcoin fraud detection, extending XGBoost pipeline with Graph Neural Networks (GraphSAGE/GAT)
 - **Learning:** Cloud computing, advanced feature selection, functional programming
 - **Open to:** Industrial placement / internship opportunities in data science
 
